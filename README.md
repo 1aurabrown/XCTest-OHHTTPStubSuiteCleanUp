@@ -2,7 +2,7 @@
 
 [![Version](http://cocoapod-badges.herokuapp.com/v/XCTest+OHHTTPStubSuiteCleanUp/badge.png)](http://cocoadocs.org/docsets/XCTest+OHHTTPStubSuiteCleanUp)
 [![Platform](http://cocoapod-badges.herokuapp.com/p/XCTest+OHHTTPStubSuiteCleanUp/badge.png)](http://cocoadocs.org/docsets/XCTest+OHHTTPStubSuiteCleanUp)
-[![Build Status](https://travis-ci.org/Laura Brown/XCTest+OHHTTPStubSuiteCleanUp.svg)](https://travis-ci.org/Laura Brown/XCTest+OHHTTPStubSuiteCleanUp)
+[![Build Status](https://travis-ci.org/1aurabrown/XCTest-OHHTTPStubSuiteCleanUp.svg)](https://travis-ci.org/1aurabrown/XCTest-OHHTTPStubSuiteCleanUp)
 
 ## Usage
 
