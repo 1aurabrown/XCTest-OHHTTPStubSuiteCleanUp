@@ -19,7 +19,7 @@ it simply add the following line to your Podfile:
 
 ## Author
 
-Laura Brown, laurabrown1113@gmail.com
+Laura Brown, laura@artsy.net
 
 ## License
 

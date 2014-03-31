@@ -25,6 +25,7 @@
 		60AB5F3918E47CA8005FD253 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		60AB5F3B18E47CA8005FD253 /* UnitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UnitTests.m; sourceTree = "<group>"; };
 		60AB5F3D18E47CA8005FD253 /* UnitTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UnitTests-Prefix.pch"; sourceTree = "<group>"; };
+		E6634C3718E9C65200BC5770 /* Pods.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Pods.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 			children = (
 				60AB5F3B18E47CA8005FD253 /* UnitTests.m */,
 				60AB5F3618E47CA8005FD253 /* Supporting Files */,
+				E6634C3718E9C65200BC5770 /* Pods.xcconfig */,
 			);
 			path = UnitTests;
 			sourceTree = "<group>";
@@ -170,18 +172,21 @@
 /* Begin XCBuildConfiguration section */
 		60AB5F2618E47C81005FD253 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E6634C3718E9C65200BC5770 /* Pods.xcconfig */;
 			buildSettings = {
 			};
 			name = Debug;
 		};
 		60AB5F2718E47C81005FD253 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E6634C3718E9C65200BC5770 /* Pods.xcconfig */;
 			buildSettings = {
 			};
 			name = Release;
 		};
 		60AB5F3E18E47CA8005FD253 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E6634C3718E9C65200BC5770 /* Pods.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -229,6 +234,7 @@
 		};
 		60AB5F3F18E47CA8005FD253 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E6634C3718E9C65200BC5770 /* Pods.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
