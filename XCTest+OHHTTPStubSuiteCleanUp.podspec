@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
   s.name             = "XCTest+OHHTTPStubSuiteCleanUp"
-  s.version          = "0.1.0"
+  s.version          = "1.0.0"
   s.summary          = "Removes all OHHTTP stubs between test suites."
-  s.homepage         = "http://github.com/1aurabrown/XCTest-OHHTTPStubSuiteCleanUp"
+  s.homepage         = "https://github.com/1aurabrown/XCTest-OHHTTPStubSuiteCleanUp"
   s.license          = 'MIT'
   s.author           = { "Laura Brown" => "laura@artsy.net" }
-  s.source           = { :git => "http://github.com/1aurabrown/XCTest-OHHTTPStubSuiteCleanUp.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/1aurabrown/XCTest-OHHTTPStubSuiteCleanUp.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/1aurabrown'
 
   s.platform     = :ios, '7.0'
