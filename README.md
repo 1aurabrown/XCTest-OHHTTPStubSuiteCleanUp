@@ -6,9 +6,10 @@
 
 ## Usage
 
-To run the example project; clone the repo, and run `pod install` from the Example directory first.
+OHHTTPStubs does not automatically stop stubbing http requests at the end of tests. XCTest+OHHTTPStubSuiteCleanUp will tell OHHHTTPStubs to stop stubbing requests afer each XCTest test method to avoid stubs from one test leaking into another test.
 
 ## Requirements
+OHHTTPStubs
 
 ## Installation
 
