@@ -6,7 +6,7 @@
 
 ## Usage
 
-OHHTTPStubs does not automatically stop stubbing http requests at the end of tests. XCTest+OHHTTPStubSuiteCleanUp will tell OHHHTTPStubs to stop stubbing requests afer each XCTest test method to avoid stubs from one test leaking into another test.
+OHHTTPStubs does not automatically stop stubbing http requests at the end of tests. XCTest+OHHTTPStubSuiteCleanUp will tell OHHHTTPStubs to stop stubbing requests after each XCTest test method is run to avoid stubs from one test leaking into another test.
 
 ## Requirements
 OHHTTPStubs
