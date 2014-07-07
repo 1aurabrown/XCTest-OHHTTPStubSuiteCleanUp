@@ -1,6 +1,6 @@
 PODS:
-  - OHHTTPStubs (3.1.0)
-  - XCTest+OHHTTPStubSuiteCleanUp (0.1.0):
+  - OHHTTPStubs (3.1.2)
+  - XCTest+OHHTTPStubSuiteCleanUp (1.0.0):
     - OHHTTPStubs
 
 DEPENDENCIES:
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: ./XCTest+OHHTTPStubSuiteCleanUp.podspec
 
 SPEC CHECKSUMS:
-  OHHTTPStubs: d67c42c0212f0883ddb8592375aa0dc00dc50a36
-  XCTest+OHHTTPStubSuiteCleanUp: a57fbc101fdd1f30069e967c50e286be373f8d65
+  OHHTTPStubs: c1c2007839687eaf9b80f061ce84440515080ebb
+  XCTest+OHHTTPStubSuiteCleanUp: a8f639b6a9572e4b371561b6be1a28a9501d1431
 
-COCOAPODS: 0.30.0
+COCOAPODS: 0.33.1
