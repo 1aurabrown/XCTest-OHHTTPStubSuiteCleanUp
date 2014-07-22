@@ -26,8 +26,8 @@
 
 - (void)swizzled_tearDown
 {
-    [OHHTTPStubs removeAllStubs];
     [self swizzled_tearDown];
+    [OHHTTPStubs removeAllStubs];
 }
 
 @end

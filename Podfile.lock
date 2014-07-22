@@ -1,9 +1,11 @@
 PODS:
   - OHHTTPStubs (3.1.2)
-  - XCTest+OHHTTPStubSuiteCleanUp (1.0.0):
+  - Specta (0.2.1)
+  - XCTest+OHHTTPStubSuiteCleanUp (1.1.0):
     - OHHTTPStubs
 
 DEPENDENCIES:
+  - Specta
   - XCTest+OHHTTPStubSuiteCleanUp (from `./XCTest+OHHTTPStubSuiteCleanUp.podspec`)
 
 EXTERNAL SOURCES:
@@ -12,6 +14,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   OHHTTPStubs: c1c2007839687eaf9b80f061ce84440515080ebb
-  XCTest+OHHTTPStubSuiteCleanUp: a8f639b6a9572e4b371561b6be1a28a9501d1431
+  Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
+  XCTest+OHHTTPStubSuiteCleanUp: 81cbe01157c5db722eaf37d383e0708c6be127d5
 
 COCOAPODS: 0.33.1

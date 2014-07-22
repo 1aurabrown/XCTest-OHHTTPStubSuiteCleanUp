@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		60756EEC197E9607006D88DD /* SpectaStubbingSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 60756EEB197E9607006D88DD /* SpectaStubbingSpec.m */; };
 		60AB5F3018E47CA8005FD253 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60AB5F2F18E47CA8005FD253 /* XCTest.framework */; };
 		60AB5F3218E47CA8005FD253 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60AB5F3118E47CA8005FD253 /* Foundation.framework */; };
 		60AB5F3418E47CA8005FD253 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60AB5F3318E47CA8005FD253 /* UIKit.framework */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		2755ED54EC2443D183AB3F36 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		60756EEB197E9607006D88DD /* SpectaStubbingSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpectaStubbingSpec.m; sourceTree = "<group>"; };
 		60AB5F2C18E47CA8005FD253 /* UnitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UnitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		60AB5F2F18E47CA8005FD253 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		60AB5F3118E47CA8005FD253 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -77,6 +79,7 @@
 				60AB5F3B18E47CA8005FD253 /* UnitTests.m */,
 				60AB5F3618E47CA8005FD253 /* Supporting Files */,
 				E6634C3718E9C65200BC5770 /* Pods.xcconfig */,
+				60756EEB197E9607006D88DD /* SpectaStubbingSpec.m */,
 			);
 			path = UnitTests;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60756EEC197E9607006D88DD /* SpectaStubbingSpec.m in Sources */,
 				60AB5F3C18E47CA8005FD253 /* UnitTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
